@@ -35,21 +35,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Intelligence Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amith-m-s&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amith-m-s&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=amith-m-s&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amith-m-s&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amith-m-s&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amith-m-s&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amith-m-s&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amith-m-s&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amith-m-s&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/amith-m-s/amith-m-s/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
