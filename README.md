@@ -35,6 +35,26 @@
 
 ---
 
+## 📊 GitHub Stats (Advanced)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amith-m-s&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amith-m-s&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith-m-s&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amith-m-s&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
 
 ## ⚡ What Makes Me Different
 
@@ -44,11 +64,17 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/amith-m-s">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:amith6567@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amith-m-s-bb429b30b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -62,6 +88,7 @@
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
