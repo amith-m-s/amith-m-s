@@ -5,19 +5,19 @@
 
 <h2 align="center">🚀 Full Stack Developer | AI & Systems Builder</h2>
 
-<!-- ⌨️ TYPING ANIMATION -->
+<!-- ⌨️ TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Systems+Builder;I+build+things+from+scratch;Always+learning+new+tech"/>
 </p>
 
-<!-- 👁️ PROFILE VIEWS -->
+<!-- 👁️ VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amith-m-s&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
   Building complex systems from scratch — from neural networks to full-stack applications.<br>
-  Passionate about solving problems the hard way and understanding systems deeply.
+  Passionate about solving problems deeply and building real-world systems.
 </p>
 
 ---
@@ -25,10 +25,10 @@
 ## 🧠 About Me
 
 - 🧩 I build systems from **first principles**
-- ⚙️ Experience in **AI, simulation, and backend logic**
-- 🌐 Currently focusing on **Full Stack Development (React + Node)**
-- 🧠 Strong interest in **Neural Networks & Procedural Generation**
-- 🔥 Goal: Build **high-performance scalable systems**
+- ⚙️ Experience in **AI, backend logic, and real-world apps**
+- 🌐 Focused on **Full Stack Development**
+- 🧠 Strong interest in **AI + Systems + UI**
+- 🔥 Goal: Build **scalable production-grade systems**
 
 ---
 
@@ -41,7 +41,7 @@
 `React` `Node.js` `Django` `JAX` `NumPy`
 
 ### 🧠 Domains
-`Machine Learning` `System Design` `Simulation` `Web Development`
+`Machine Learning` `System Design` `Blockchain` `Web Development`
 
 ---
 
@@ -56,15 +56,73 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amith-m-s&theme=tokyonight"/>
 </p>
 
+---
+
+# 🚀 Featured Projects (REAL WORK)
+
+### 🧠 Deep Resume Analyzer
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amith-m-s&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amith-m-s&theme=tokyonight"/>
+  <img src="https://via.placeholder.com/800x400/0f172a/ffffff?text=Resume+Analyzer+AI" width="80%"/>
 </p>
 
+A deep learning-based resume analyzer that evaluates resumes against job descriptions using semantic embeddings, ATS scoring, keyword matching, and skill gap detection.
+
+🔗 https://github.com/amith-m-s/Deep-Resume-Analyzer
+
+---
+
+### 🎮 Lootbox Game (Blockchain)
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amith-m-s&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amith-m-s&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://via.placeholder.com/800x400/020617/38bdf8?text=Blockchain+Lootbox+Game" width="80%"/>
 </p>
+
+Blockchain-based lootbox system built using Sui Move, implementing NFT minting, randomness, and on-chain game logic.
+
+🔗 https://github.com/amith-m-s/lootbox-game
+
+---
+
+### 🤖 JARVIS AI Assistant
+<p align="center">
+  <img src="https://via.placeholder.com/800x400/000000/00c6ff?text=JARVIS+AI+Assistant" width="80%"/>
+</p>
+
+AI-powered desktop assistant capable of executing commands, interacting with users via natural language, and automating system-level tasks.
+
+🔗 https://github.com/amith-m-s/JARVIS
+
+---
+
+### 💰 Pro Finance Tracker
+<p align="center">
+  <img src="https://via.placeholder.com/800x400/111827/22c55e?text=Finance+Dashboard" width="80%"/>
+</p>
+
+Modern personal finance tracker with dashboards, expense tracking, budgeting, and interactive data visualization.
+
+🔗 https://github.com/amith-m-s/Pro-Finance-Tracker
+
+---
+
+### 🏨 Agoda Clone
+<p align="center">
+  <img src="https://via.placeholder.com/800x400/020617/f97316?text=Hotel+Booking+UI" width="80%"/>
+</p>
+
+Responsive hotel booking UI inspired by Agoda, featuring smooth interactions, modern layout, and reusable components.
+
+🔗 https://github.com/amith-m-s/Agoda
+
+---
+
+### 🎓 Stellar Academy
+<p align="center">
+  <img src="https://via.placeholder.com/800x400/000000/eab308?text=Education+Platform" width="80%"/>
+</p>
+
+Interactive educational website with structured UI, animations, and modern landing page design.
+
+🔗 https://github.com/amith-m-s/Stellar-Academy
 
 ---
 
@@ -74,7 +132,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amith-m-s/amith-m-s/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amith-m-s/amith-m-s/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/amith-m-s/amith-m-s/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/amith-m-s/amith-m-s/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -82,9 +140,9 @@
 
 ## ⚡ What Makes Me Different
 
-- I don’t just use libraries — I **build systems from scratch**
-- I focus on **understanding over shortcuts**
-- I enjoy solving problems the **hard way**
+- I build systems from scratch, not just use tools
+- I combine **AI + Systems + Web**
+- I focus on **depth, not shortcuts**
 
 ---
 
@@ -107,12 +165,11 @@
 ## ✨ Philosophy
 
 <p align="center">
-  <i>"Programming isn't about what you know — it's about what you can figure out."</i>
+  <i>"Build deeply. Understand completely. Ship fearlessly."</i>
 </p>
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
