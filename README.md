@@ -5,9 +5,19 @@
 
 <h2 align="center">🚀 Full Stack Developer | AI & Systems Builder</h2>
 
+<!-- ⌨️ TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Systems+Builder;I+build+things+from+scratch;Always+learning+new+tech"/>
+</p>
+
+<!-- 👁️ PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amith-m-s&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
 <p align="center">
   Building complex systems from scratch — from neural networks to full-stack applications.<br>
-  Passionate about solving problems the hard way and understanding systems deeply.<br>
+  Passionate about solving problems the hard way and understanding systems deeply.
 </p>
 
 ---
