@@ -35,14 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amithm3&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amithm3&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
 
 ## ⚡ What Makes Me Different
 
@@ -55,7 +47,7 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/amithm3">
+  <a href="https://github.com/amith-m-s">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
