@@ -62,7 +62,8 @@
 
 ### 🧠 Deep Resume Analyzer
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/0f172a/ffffff?text=Resume+Analyzer+AI" width="80%"/>
+  <img width="1486" height="931" alt="Screenshot 2026-04-12 194001" src="https://github.com/user-attachments/assets/8b713961-ae4a-4c33-bbdc-fb02ccbea64f" />
+
 </p>
 
 A deep learning-based resume analyzer that evaluates resumes against job descriptions using semantic embeddings, ATS scoring, keyword matching, and skill gap detection.
@@ -73,7 +74,8 @@ A deep learning-based resume analyzer that evaluates resumes against job descrip
 
 ### 🎮 Lootbox Game (Blockchain)
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/020617/38bdf8?text=Blockchain+Lootbox+Game" width="80%"/>
+  <img width="1039" height="560" alt="image" src="https://github.com/user-attachments/assets/e9fb6a91-c306-46c8-a79c-43adf3b52cbf" />
+
 </p>
 
 Blockchain-based lootbox system built using Sui Move, implementing NFT minting, randomness, and on-chain game logic.
@@ -84,7 +86,8 @@ Blockchain-based lootbox system built using Sui Move, implementing NFT minting, 
 
 ### 🤖 JARVIS AI Assistant
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/000000/00c6ff?text=JARVIS+AI+Assistant" width="80%"/>
+  <img width="656" height="212" alt="image" src="https://github.com/user-attachments/assets/638536de-55bc-4674-9dbe-b27c931970af" />
+
 </p>
 
 AI-powered desktop assistant capable of executing commands, interacting with users via natural language, and automating system-level tasks.
@@ -95,7 +98,8 @@ AI-powered desktop assistant capable of executing commands, interacting with use
 
 ### 💰 Pro Finance Tracker
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/111827/22c55e?text=Finance+Dashboard" width="80%"/>
+  <img width="1042" height="882" alt="image" src="https://github.com/user-attachments/assets/9846a1f7-1dac-447b-8890-1bdcb5bb79db" />
+
 </p>
 
 Modern personal finance tracker with dashboards, expense tracking, budgeting, and interactive data visualization.
@@ -106,7 +110,8 @@ Modern personal finance tracker with dashboards, expense tracking, budgeting, an
 
 ### 🏨 Agoda Clone
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/020617/f97316?text=Hotel+Booking+UI" width="80%"/>
+  <img width="1918" height="780" alt="image" src="https://github.com/user-attachments/assets/41d23abf-4ad0-4721-940c-e8d99022e7a6" />
+
 </p>
 
 Responsive hotel booking UI inspired by Agoda, featuring smooth interactions, modern layout, and reusable components.
@@ -117,7 +122,8 @@ Responsive hotel booking UI inspired by Agoda, featuring smooth interactions, mo
 
 ### 🎓 Stellar Academy
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/000000/eab308?text=Education+Platform" width="80%"/>
+  <img width="1297" height="717" alt="image" src="https://github.com/user-attachments/assets/6324cff5-d00d-4cb0-8dda-92657ccdff6c" />
+
 </p>
 
 Interactive educational website with structured UI, animations, and modern landing page design.
