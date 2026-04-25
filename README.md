@@ -121,7 +121,8 @@ Built a finance tracking system with dashboards, budgeting, and analytics focuse
 Designed a responsive booking interface with reusable UI components and strong frontend structure.
 
 <p align="center">
-  <img width="1400" src="https://github.com/user-attachments/assets/41d23abf-4ad0-4721-940c-e8d99022e7a6"/>
+  <img width="1902" height="976" alt="image" src="https://github.com/user-attachments/assets/f6b88f7a-bf9c-40d8-8889-bee22678f18c" />
+
 </p>
 
 
