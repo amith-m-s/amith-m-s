@@ -134,7 +134,8 @@ Designed a responsive booking interface with reusable UI components and strong f
 Built an interactive educational platform UI with modern landing pages, animations, and scalable structure.
 
 <p align="center">
-  <img width="1200" src="https://github.com/user-attachments/assets/6324cff5-d00d-4cb0-8dda-92657ccdff6c"/>
+  <img width="1897" height="882" alt="image" src="https://github.com/user-attachments/assets/cfea06b7-42c1-4ff0-82ec-b14ac2880409" />
+
 </p>
 
 
