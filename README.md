@@ -97,7 +97,8 @@ Desktop AI automation system capable of executing OS-level workflows using natur
 * Extensible command modules
 
 <p align="center">
-  <img width="650" src="https://github.com/user-attachments/assets/638536de-55bc-4674-9dbe-b27c931970af"/>
+  <img width="1079" height="491" alt="image" src="https://github.com/user-attachments/assets/c461b492-fd3b-459d-84fe-b0981b76967e" />
+
 </p>
 
 
