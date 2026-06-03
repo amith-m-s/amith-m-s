@@ -160,8 +160,11 @@ AWS Machine Learning Learning Path (in progress)
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amith-m-s&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith-m-s&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amith-m-s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&card_width=495" alt="Amith's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith-m-s&layout=compact&theme=github_dark&hide_border=true&card_width=495" alt="Top Languages" />
 </div>
 
 ---
