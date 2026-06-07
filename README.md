@@ -16,7 +16,7 @@
 **Backend Engineer · NLP Systems · Cloud Infrastructure · Blockchain**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amith-m-s/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://amithms.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-beryl-five-zezv4gffmv.vercel.app/)
 [![Live Demo](https://img.shields.io/badge/Deep_Resume_Analyzer-live-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://deep-resume-analyzer.vercel.app)
 [![Email](https://img.shields.io/badge/amith6567@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amith6567@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=amith-m-s&style=flat-square&color=475569&label=profile+views)](https://github.com/amith-m-s)
