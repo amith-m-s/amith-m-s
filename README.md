@@ -230,7 +230,7 @@ Python Intern — Futura Labs, Calicut ........... Jun 2025
 
 Backend engineering or cloud infrastructure internships at product companies building real systems — not demo apps.
 
-**[amith6567@gmail.com](mailto:amith6567@gmail.com)** · **[amithms.dev](https://amithms.dev)** · **[linkedin.com/in/amith-m-s](https://www.linkedin.com/in/amith-m-s/)**
+**[amith6567@gmail.com](mailto:amith6567@gmail.com)** · **[amithms.dev]([https://amithms.dev](https://portfolio-beryl-five-zezv4gffmv.vercel.app/)** · **[linkedin.com/in/amith-m-s](https://www.linkedin.com/in/amith-m-s/)**
 
 ---
 
