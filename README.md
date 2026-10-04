@@ -29,6 +29,8 @@ Final-year B.Tech student at Rajagiri School of Engineering & Technology buildin
 
 **DSA and interview problem solving · PostgreSQL internals · distributed-systems correctness · backend reliability**
 
+**Interview practice:** [NeetCode-style DSA solutions](https://github.com/amith-m-s/neetcode-submissions)
+
 ### Education
 
 **B.Tech — Computer Science and Business Systems, 2023–2027**  
