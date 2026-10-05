@@ -35,7 +35,7 @@ Final-year B.Tech student at Rajagiri School of Engineering & Technology buildin
 
 **B.Tech — Computer Science and Business Systems, 2023–2027**  
 Rajagiri School of Engineering & Technology · KTU  
-CGPA: **7.90 / 10.0**
+CGPA: **7.78 / 10.0**
 
 ### Looking for
 
