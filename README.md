@@ -35,7 +35,7 @@ Final-year B.Tech student at Rajagiri School of Engineering & Technology buildin
 
 **B.Tech — Computer Science and Business Systems, 2023–2027**  
 Rajagiri School of Engineering & Technology · KTU  
-CGPA: **7.78 / 10.0**
+CGPA: **7.90 / 10.0**
 
 ### Looking for
 
@@ -44,3 +44,19 @@ Backend / software engineering internships and entry-level roles where I can wor
 ---
 
 <sub>Project claims are intentionally limited to behavior visible in the repositories or explicitly documented as a demo/reference implementation.</sub>
+
+
+---
+
+## Engineering snapshot
+
+- **Backend:** FastAPI, Node.js, PostgreSQL, Redis, Celery, SQLAlchemy
+- **Frontend:** React, Next.js, TypeScript
+- **Infrastructure:** Docker, CI/CD, AWS/Terraform
+- **AI/ML:** NLP embeddings, semantic matching, applied AI pipelines
+- **Engineering focus:** reliability, APIs, data systems, distributed workflows
+
+### Selected repositories
+
+For recruiters, the highest-signal projects are **RelayForge**, **Rekshakan**, **EngineerOS**, **Deep Resume Analyzer**, and **Cloud God Platform**.
+
