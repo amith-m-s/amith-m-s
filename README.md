@@ -6,7 +6,6 @@ Final-year B.Tech student at Rajagiri School of Engineering & Technology buildin
 
 [Portfolio](https://portfolio-beryl-five-zezv4gffmv.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/amith-m-s/) · [Email](mailto:amith6567@gmail.com)
 
-
 [![Followers](https://img.shields.io/github/followers/amith-m-s?label=Followers&style=flat-square)](https://github.com/amith-m-s)
 [![Profile Views](https://komarev.com/ghpvc/?username=amith-m-s&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/amith-m-s)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square)](https://portfolio-beryl-five-zezv4gffmv.vercel.app/)
@@ -15,12 +14,9 @@ Final-year B.Tech student at Rajagiri School of Engineering & Technology buildin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amith-m-s&theme=flat&no-frame=true&margin-w=8" alt="GitHub trophies" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=amith-m-s&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith-m-s&layout=compact&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=amith-m-s&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=amith-m-s&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith-m-s&layout=compact&hide_border=true" alt="Most used languages" />
+<img src="https://streak-stats.demolab.com/?user=amith-m-s&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -30,7 +26,7 @@ Final-year B.Tech student at Rajagiri School of Engineering & Technology buildin
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| [RelayForge](https://github.com/amith-m-s/RelayForge) | Multi-tenant webhook delivery, PostgreSQL, Redis, Celery, retries, DLQ, HMAC signing, auditability | Engineering reference implementation |
+| [RelayForge](https://github.com/amith-m-s/RelayForge) | Multi-tenant webhook delivery, PostgreSQL, Redis, Celery, retries, dead-letter handling, HMAC signing, auditability | Engineering reference implementation |
 | [Rekshakan](https://github.com/amith-m-s/Rekshakan) | Geospatial disaster-response workflows, RBAC, incident severity, responder matching, audit events, simulators | Hackathon platform |
 | [Deep Resume Analyzer](https://github.com/amith-m-s/Deep-Resume-Analyzer) | Resume/JD semantic matching, MiniLM embeddings, hybrid scoring, skill-gap detection | Live demo |
 | [LootBox Game](https://github.com/amith-m-s/lootbox-game) | Sui Move, on-chain randomness, NFT lifecycle, capability-based admin control, pity tracking | Testnet smart contract |
@@ -63,9 +59,6 @@ Backend / software engineering internships and entry-level roles where I can wor
 
 <sub>Project claims are intentionally limited to behavior visible in the repositories or explicitly documented as a demo/reference implementation.</sub>
 
-
----
-
 ## Engineering snapshot
 
 - **Backend:** FastAPI, Node.js, PostgreSQL, Redis, Celery, SQLAlchemy
@@ -77,4 +70,3 @@ Backend / software engineering internships and entry-level roles where I can wor
 ### Selected repositories
 
 For recruiters, the highest-signal projects are **RelayForge**, **Rekshakan**, **EngineerOS**, **Deep Resume Analyzer**, and **Cloud God Platform**.
-
